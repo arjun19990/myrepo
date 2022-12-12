@@ -5,7 +5,7 @@ qbd.actionsteps = function () {
 
 function createTask(){
 debugger;
-
+//first comment
 
 //Get an array of entity references for all selected rows in the subgrid
 var selectedEntityReferences = [];
